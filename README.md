@@ -2,9 +2,9 @@
 
 Hey my names Whogi I'm a freelance web developer with a passion for coding and system administration. I build using the MEVN stack (Mysql/MongoDB, Express, Vue.js, Node.js). I enjoy playing Video Games as well as freelance Web Development and System Administration in my free time.
 
-![Whogivsachit's Stats](https://github-readme-stats.vercel.app/api?username=Whogivsachit&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Whogivsachit's Stats](https://github-readme-stats.vercel.app/api?username=WhogiTheRaccoon&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Whogivsachits's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whogivsachit&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/Whogivsachit)
+[![Whogivsachits's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WhogiTheRaccoon&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/WhogiTheRaccoon)
 
 ## About Me
 
@@ -16,8 +16,7 @@ Hey my names Whogi I'm a freelance web developer with a passion for coding and s
 
 ## My Skills
 
-[![My Languages](https://skillicons.dev/icons?i=php,javascript,html,css,mysql,nodejs,vuejs,express,tailwindcss,discordjs)](https://skillicons.dev)
-
+[![My Languages](https://skillicons.dev/icons?i=php,javascript,html,css,ts,mysql,nodejs,vuejs,express,tailwindcss,discordjs,cloudflare,debian,docker)](https://skillicons.dev)
 
 ## Hosts I've worked for
 

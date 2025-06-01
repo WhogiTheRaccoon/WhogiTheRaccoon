@@ -1,6 +1,6 @@
 # Hi, I'm Whogi! 
 
-Hey my names Whogi I'm a freelance web developer with a passion for coding and system administration. I build using the MEVN stack (Mysql/MongoDB, Express, Vue.js, Node.js). I enjoy playing Video Games as well as freelance Web Development and System Administration in my free time.
+Hey, I'm Whogi, a freelance web developer and computer science student currently in college. I have a strong passion for coding and system administration, and I love bringing ideas to life on the web. My primary stack is MEVN (MySQL/MongoDB, Express, Vue.js, Node.js), but I've recently started diving into React and Next.js, and I'm really enjoying the journey so far. When I’m not building websites or managing systems, you’ll likely find me gaming or sharpening my skills through freelance work and side projects.
 
 ![Whogivsachit's Stats](https://github-readme-stats.vercel.app/api?username=WhogiTheRaccoon&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -16,7 +16,8 @@ Hey my names Whogi I'm a freelance web developer with a passion for coding and s
 
 ## My Skills
 
-[![My Languages](https://skillicons.dev/icons?i=php,javascript,html,css,ts,mysql,nodejs,vuejs,express,tailwindcss,discordjs,cloudflare,debian,docker)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=php,javascript,html,css,ts,mysql,nodejs,vuejs,react,next,express,tailwindcss,discordjs,cloudflare,debian,docker)](https://skillicons.dev)
+
 
 ## Hosts I've worked for
 
